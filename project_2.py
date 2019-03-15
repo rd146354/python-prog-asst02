@@ -1,4 +1,4 @@
-# Basic Timer program
+# 60s countdown (starts at 59 and ends at zero)
 from microbit import *
 import time
 
